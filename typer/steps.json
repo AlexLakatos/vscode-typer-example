@@ -1,0 +1,27 @@
+[
+    {
+        "file": "test.js",
+        "content" : "test-2.js",
+        "charsPerChange": 5
+    },
+    {
+        "file": "test.js",
+        "content" : "test-3.js",
+        "charsPerChange": 5
+    },
+    {
+        "file": "test.js",
+        "content" : "test-4.js",
+        "charsPerChange": 2
+    },
+    {
+        "file": "test.js",
+        "content" : "test-5.js",
+        "charsPerChange": 2
+    },
+    {
+        "file": "test.js",
+        "content" : "test-6.js",
+        "charsPerChange": 5
+    }
+]
